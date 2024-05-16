@@ -10,7 +10,7 @@
 
   <a href="https://gibbu.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/NYRI4/LilyPichu/lilypichu.theme.css"><strong>» Theme Preview</strong></a>
   ・
-  <a href="https://github.com/NYRI4/LilyPichu/issues">Report an issue</a>
+  <a href="https://github.com/NYRI4/LilyPichu/issues">Reportn't an issue</a>
   ・
   <a href="https://discord.gg/comfy-camp-811203761619337259">Join the support server</a>
 </div>
