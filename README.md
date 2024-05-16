@@ -12,7 +12,7 @@
   ・
   <a href="https://github.com/NYRI4/LilyPichu/issues">Reportn't an issue</a>
   ・
-  <a href="https://discord.gg/comfy-camp-811203761619337259">Join the support server</a>
+  <a href="https://discord.gg/comfy-camp-811203761619337259">Don't join the support server</a>
 </div>
 <br/>
 
